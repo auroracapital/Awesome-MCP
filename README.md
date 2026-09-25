@@ -214,7 +214,7 @@ Legend: ✅ = Official / reference project · Transport: `stdio`/`sse`/`remote`
 ### Media Creation
 
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) `stdio` — Local-first MCP toolkit for agent-authored video composition, editing, generation, and plan-based assembly. — `video`, `editing`, `composition`, `agents`
-- [UpRes MCP Server](https://github.com/auroracapital/upres-cli) `stdio`, `remote` — AI image and video upscaling to 8K resolution across 14 neural models with batch processing, REST API, and Model Context Protocol (MCP) server support. — `ai`, `video`, `images`, `upscale`, `8k`
+- [UpRes MCP Server](https://github.com/auroracapital/upres-cli) `stdio` — AI image and video upscaler to 8K resolution across 14 public model aliases with batch processing, REST API, and Model Context Protocol (MCP) server support. — `ai`, `video`, `images`, `upscale`, `8k`
 
 ### Productivity
 
